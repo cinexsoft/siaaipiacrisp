@@ -1,0 +1,12 @@
+{
+  "openai": {
+    "apiKey": "",
+    "baseUrl": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini"
+  },
+  "interview": {
+    "numQuestions": 6,
+    "timers": { "easy": 20, "medium": 60, "hard": 120 }
+  }
+}
+
